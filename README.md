@@ -30,7 +30,7 @@
 </a>
 <br/>
 
+### Visitors:
+![Visitor Count](https://profile-counter.glitch.me/liang611zh/count.svg)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/liang611zh/count.svg) visitor, Thank You!🎉🎉
-
-⭐️ From [liang611zh](https://github.com/liang611zh)
+Thank You!🎉🎉 ⭐️ From [liang611zh](https://github.com/liang611zh)
